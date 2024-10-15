@@ -1,0 +1,1 @@
+This ebook has been published by [Standard Ebooks](https://standardebooks.org/ebooks/julia-peterkin/scarlet-sister-mary) and code hosting transferred to the [Standard Ebooks GitHub organization](https://github.com/standardebooks/julia-peterkin_scarlet-sister-mary).
